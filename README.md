@@ -24,7 +24,7 @@
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> 
   </a> 
   <a href="https://next-auth.js.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/nextauthjs/next-auth/main/www/static/img/logo/logo-sm.png" alt="NextAuth.js" width="40" height="40"/> 
+    <img src="https://next-auth.js.org/img/logo/logo-sm.png" alt="NextAuth.js" width="40" height="40"/> 
   </a>
   <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> 
