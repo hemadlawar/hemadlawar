@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hema</h1>
-<h3 align="center">i'm software engineering student at koya university,</h3>
+<h3 align="center">I'm a software engineering student at Koya University</h3>
 
-
-<p align="left">
-</p>
+<p align="left"></p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
@@ -25,6 +23,9 @@
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> 
   </a> 
+  <a href="https://next-auth.js.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/nextauthjs/next-auth/main/www/static/img/logo/logo-sm.png" alt="NextAuth.js" width="40" height="40"/> 
+  </a>
   <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> 
   </a>
@@ -45,3 +46,5 @@
   </a>
 </p>
 
+<h3 align="left">Authentication:</h3>
+<p align="left">I use <a href="https://next-auth.js.org/" target="_blank" rel="noreferrer">NextAuth.js</a> for authentication in my Next.js projects, which provides seamless integration with multiple identity providers like Google, GitHub, and more.</p>
