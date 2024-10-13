@@ -46,5 +46,3 @@
   </a>
 </p>
 
-<h3 align="left">Authentication:</h3>
-<p align="left">I use <a href="https://next-auth.js.org/" target="_blank" rel="noreferrer">NextAuth.js</a> for authentication in my Next.js projects, which provides seamless integration with multiple identity providers like Google, GitHub, and more.</p>
