@@ -2,7 +2,7 @@
 <h3 align="center">I'm a software engineer</h3>
 
 <p align="left">
-  Passionate about building efficient and scalable web applications. Skilled in front-end and back-end technologies, with experience in modern frameworks and database management systems.
+  Passionate about building efficient and scalable web applications.  with experience in modern frameworks and database management systems.
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -54,5 +54,8 @@
   </a>
   <a href="https://www.microsoft.com/en-us/sql-server/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="sqlserver" width="40" height="40"/>
+  </a>
+  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
   </a>
 </p>
